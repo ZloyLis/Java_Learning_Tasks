@@ -1,6 +1,3 @@
-package Books;
-
-
 import Books.src.Book;
 
 public class Main {
